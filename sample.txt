@@ -2,3 +2,6 @@ sample
 file
 with
 text
+
+more
+text
